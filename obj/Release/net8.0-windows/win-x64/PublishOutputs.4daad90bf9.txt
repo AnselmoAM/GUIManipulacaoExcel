@@ -1,0 +1,2 @@
+D:\Projects\Office\GUIManipulaçãoExcel\bin\Release\net8.0-windows\publish\win-x64\GUIManipulaçãoExcel.pdb
+D:\Projects\Office\GUIManipulaçãoExcel\bin\Release\net8.0-windows\publish\win-x64\GUIManipulaçãoExcel.exe
